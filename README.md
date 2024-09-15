@@ -11,7 +11,7 @@ A Streamlit application that generates SOAP (Subjective, Objective, Assessment, 
 
 ## Live Demo
 
-You can try the live demo of the application at [Psycho-Therapy Scribing](https://psycho-therapy-scribing.streamlit.app/).
+You can try the live demo of the application at [Psycho-Therapy Scribing](https://psyscribe-kg4b8rrja5czjaz7nzetma.streamlit.app/).
 
 ## Prerequisites
 
