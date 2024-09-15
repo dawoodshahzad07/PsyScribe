@@ -1,4 +1,4 @@
-# Psychotherapy(Beta)
+# Psychotherapy Scribing(Beta)
 
 A Streamlit application that generates SOAP (Subjective, Objective, Assessment, Plan) notes and summaries from psychotherapy transcripts. The app allows users to upload text files containing psychotherapy session transcripts and get a formatted SOAP note along with summaries for both clinician and client.
 
