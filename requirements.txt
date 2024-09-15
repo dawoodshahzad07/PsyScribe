@@ -156,8 +156,8 @@ wrapt
 xxhash
 yarl
 zipp
+pyaudio
 streamlit
-sounddevice
 numpy
 requests
 python-dotenv
