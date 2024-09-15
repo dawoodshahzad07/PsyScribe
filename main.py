@@ -132,7 +132,7 @@ def is_relevant_psychotherapy_text(text):
     return any(keyword.lower() in text.lower() for keyword in psychotherapy_keywords)
 
 # Hardcoded file path (example transcript)
-hardcoded_file_path = "C:\\Users\\Thunder\\Desktop\\archive\\Psychotherapy Transcripts\\Psychotherapy Transcripts\\1.txt"  # Replace with the actual file path
+hardcoded_file_path = "psychotherapy_transcript.txt"  # Replace with the actual file path
 
 # Streamlit UI
 st.title("Generate SOAP Notes and Summaries from Psychotherapy Transcript")
